@@ -4,3 +4,5 @@ print("Tenho que praticar")
 print("Se eu commitar, ele não mostra mais a diferença")
 
 print("Essa mudança foi no novo branch!!!")
+
+print("Agora sim, entendendo Git")
